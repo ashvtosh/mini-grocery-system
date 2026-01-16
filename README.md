@@ -40,3 +40,9 @@ It performs the following in a **Single Database Transaction**:
 ```bash
 cd GroceryBackend
 dotnet run
+```
+
+### Frontend
+```bash
+cd grocery-frontend
+ionic serve
